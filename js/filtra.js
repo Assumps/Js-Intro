@@ -9,4 +9,4 @@ campoFiltro.addEventListener("input", function(){
         var nome = paciente
     });
     
-});
+}); 
